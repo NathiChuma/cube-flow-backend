@@ -10,8 +10,8 @@ app.use(express.json());
 
 app.use(
   cors({
-    //origin: 'https://cube-flow-ten.vercel.app',
-    origin: 'http://localhost:8080'
+    origin: 'https://cube-flow-ten.vercel.app',
+    //origin: 'http://localhost:8080'
   })
 );
 
