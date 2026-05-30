@@ -102,7 +102,7 @@ npm start
 Create a `.env` file.
 
 ```env
-PORT=5000
+PORT=3000
 
 FIREBASE_PROJECT_ID=
 FIREBASE_PRIVATE_KEY=
@@ -144,7 +144,7 @@ Ao5 follows official WCA-style rules:
 
 ## Deployment
 
-Backend is deployed and connected to Firebase Firestore.
+Backend is deployed on vercel and connected to Firebase Firestore.
 
 ## Author
 
